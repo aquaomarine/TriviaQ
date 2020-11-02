@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 - [x] Questions should not repeat in a round.
 - [x] A user can select only 1 answer out of the 4 possible answers
 - [x] The correct answer must be revealed after a user has submitted their answer 
-- [] A user can see the score they received at the end of the round
+- [ ] A user can see the score they received at the end of the round
 
 ## How to Run
 
