@@ -31,4 +31,6 @@ To run it on Live Server:
 4. The project shoul open up in a browser.
 
 
+<img src="https://i.ibb.co/cyNHprz/Screen-Shot-2020-11-10-at-18-32-28.png" alt="Start Page">
+
 
